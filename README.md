@@ -3,7 +3,7 @@ This is a simple web application. It is built using HTML, CSS, and vanilla JavaS
 
 
 ## Demo
-You can try out the Random Query Generator [here](https://shaliniram.github.io/Jsproj/).
+You can try out [here](https://shaliniram.github.io/Jsproj/).
 
 
 
