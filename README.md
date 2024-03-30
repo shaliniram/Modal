@@ -1,5 +1,5 @@
-# Random Query Generator
-This is a simple web application that generates random queries. It is built using HTML, CSS, and vanilla JavaScript.
+# Modal
+This is a simple web application. It is built using HTML, CSS, and vanilla JavaScript.
 
 
 ## Demo
